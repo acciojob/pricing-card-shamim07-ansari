@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.love-tree {
+	border: 0px solid black;
+}
+
+.btn {
+	color: white;
+	border: 0px solid rgba(255, 0, 0, 0.75);
+	background-color: rgba(255, 0, 0, 0.75);
+	border-radius: 5px;
+	margin: 20px;
+	padding: 20px;
+	
+}
