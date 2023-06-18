@@ -1,14 +1,31 @@
 /*  your css code here. If applicable */
-.love-tree {
-	border: 0px solid black;
-}
 
-.btn {
-	color: white;
-	border: 0px solid rgba(255, 0, 0, 0.75);
-	background-color: rgba(255, 0, 0, 0.75);
+.pricing_card_div{
+	background:rgba(181, 177, 177, 0.201);
+	height:550px;
+	width:400px;
+    border: 1px solid #f5f5f5;
+}
+#pricing_card_img{
+	width:290px;
+	height:225px;
+	padding: 30px 20px 0px 55px
+}
+#pricing_card_h1{
+	text-align: center;
+	padding: none;
+}
+.pricing_card_para{
+	font-size:25px;
+	align-content: center;
+	text-align:center;
+}
+#buyNow_btn{
+	color:white;
+	background-color:rgb(215, 41, 41);
+	border: none;
 	border-radius: 5px;
-	margin: 20px;
-	padding: 20px;
-	
+	font-size:25px;
+	height:55px;
+	width:150px;
 }
